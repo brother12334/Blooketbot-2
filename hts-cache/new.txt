@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+09:02:19	3674/3674	---M--	404	error ('Not%20Found')	text/html	date:Fri,%2014%20Mar%202025%2013:02:18%20GMT	https://blooket-bot.glitch.me/robots.txt		(from )
+09:02:19	6455/6455	---M--	200	added ('OK')	text/html	etag:%227f931f5fd869d6dabe32c31e1506514c%22	https://blooket-bot.glitch.me/	C:/My%20Web%20Sites/blokbot/blooket-bot.glitch.me/index.html	(from )
+09:02:19	66695/66695	---M-Z	200	added ('OK')	application/javascript	etag:W/%2210487-mbrCIuhe9M2aUyOwhziOi4uPQ9k%22	https://cdn.jsdelivr.net/npm/tesseract.js@5/dist/tesseract.min.js	C:/My%20Web%20Sites/blokbot/cdn.jsdelivr.net/npm/tesseract.js@5/dist/tesseract.min.js	(from https://blooket-bot.glitch.me/)
+09:02:20	156092/156092	---M--	200	added ('OK')	application/javascript	etag:%2267ff77dd2a873b25dca5e685387ea784%22	https://blooket-bot.glitch.me/script.js	C:/My%20Web%20Sites/blokbot/blooket-bot.glitch.me/script.js	(from https://blooket-bot.glitch.me/)
